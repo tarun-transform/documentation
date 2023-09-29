@@ -85,6 +85,8 @@ This table is used for managing and tracking service orders in a home parts serv
 - **`TST`**: Transit time.
 - **`SVC`**: Service time.
 
-## Conclusion
 
-This documentation provides a comprehensive view of the `ServiceOrder_FullDetail_Tbl`, which plays a crucial role in managing service orders within the home parts service system. Proper understanding and usage of this table will ensure efficient and effective service order management.
+
+---
+
+*Document last updated*: 2023-Sep-28
